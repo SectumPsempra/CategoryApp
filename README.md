@@ -8,4 +8,5 @@ To create directory structute, express-generator is used, to run the app nodemon
 1. npm install express-generator nodemon -g
 
 To start the app
+
 2. nodemon start 
